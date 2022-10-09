@@ -1,0 +1,60 @@
+{
+  "name": "w20-react-portfolio",
+  "version": "1.0.0",
+  "description": "React Portfolio by James Little",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamlit37/W20-REACT-PORTFOLIO.git"
+  },
+  "author": "James Little",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamlit37/W20-REACT-PORTFOLIO/issues"
+  },
+  "homepage": "/",
+  "dependencies": {
+    "@emailjs/browser": "^3.7.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "animate.css": "^4.1.1",
+    "gh-pages": "^4.0.0",
+    "loaders.css": "^0.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-loaders": "^3.0.1",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

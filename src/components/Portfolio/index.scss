@@ -1,0 +1,144 @@
+.portfolio-page {
+  .text-zone {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40%;
+    max-height: 90%;
+  }
+
+  h1 {
+    color: #fff;
+    font-size: 56px;
+    line-height: 53px;
+    margin: 0;
+    font-family: 'Coolvetica';
+    font-weight: 400;
+
+    &:before {
+      content: '<h1>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #ffd700;
+      font-size: 18px;
+      position: absolute;
+      margin-top: -40px;
+      left: -15px;
+      opacity: 0.6;
+    }
+
+    &:after {
+      content: '<h1/>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #ffd700;
+      font-size: 18px;
+      position: absolute;
+      margin-top: 18px;
+      margin-left: 20px;
+      animation: fadeIn 1s 1.7s backwards;
+      opacity: 0.6;
+    }
+  }
+
+  h2 {
+    color: #fff    ;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-weight: 400;
+    font-size: 11px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    animation: fadeIn 1s 1.8s backwards;
+    &:before {
+      content: '<h2>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #ffd700;
+      font-size: 18px;
+      opacity: 0.6;
+      display: block;
+
+    }
+
+    &:after {
+      content: '</h2>';
+      font-family: 'La Belle Aurore', cursive;
+      color: #ffd700;
+      font-size: 18px;
+      opacity: 0.6;
+      display: block;
+  }
+ }
+
+  .pfp {
+    width: 500px;
+    height: 250px;
+    display: inline;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 150px;
+    border: #333 10px solid;
+  }
+
+  .container1, 
+  .container2, 
+  .container3 {
+    display: flex;
+  }
+}
+
+
+@media screen and (max-width: 1200px) {
+  .tags,
+  .portfolio-page h1:before,
+  .portfolio-page h1:after {
+    display: none;
+  }
+
+  .portfolio-page {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto 0 auto;
+    width: auto;
+  }
+
+
+
+  .logo-container svg {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+  }
+  
+  .pfp {
+    width: 120;
+    height: 50;
+    display: inline;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 15px;
+    border: #333 10px solid;
+  }
+  h2 {
+   display: none;
+  }
+  .container1, 
+  .container2, 
+  .container3 {
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pfp,
+  .portfolio-page,
+  a {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0;
+    width: 50%;
+  }
+}
