@@ -2,7 +2,6 @@
   "name": "w20-react-portfolio",
   "version": "1.0.0",
   "description": "React Portfolio by James Little", 
-  "private": true,
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -20,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Jamlit37/W20-REACT-PORTFOLIO/issues"
   },
-  "homepage": "https://Jamlit37/.github.io/W20-REACT-PORTFOLIO",
+  "homepage": "https://Jamlit37.github.io/W20-REACT-PORTFOLIO",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",

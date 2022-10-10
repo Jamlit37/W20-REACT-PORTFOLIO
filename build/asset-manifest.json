@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/.github.io/W20-REACT-PORTFOLIO/static/css/main.d2ccefa9.css",
-    "main.js": "/.github.io/W20-REACT-PORTFOLIO/static/js/main.a75fb763.js",
-    "static/media/pf1.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf1.5ab2d0cb38aad42c4bce.png",
-    "static/media/pf2.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf2.503fb166c5c81115df93.png",
-    "static/media/pf5.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf5.c0f47f00a437bb7453bf.png",
-    "static/media/pf6.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf6.98c17a3e3efc8500d761.png",
-    "static/media/pf4.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf4.0d84a1d2f4e87475b19a.png",
-    "static/media/forest.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/forest.1dc177424b11f3bb04ba.png",
-    "static/media/helvetica-neu.ttf": "/.github.io/W20-REACT-PORTFOLIO/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/pf3.png": "/.github.io/W20-REACT-PORTFOLIO/static/media/pf3.d7c32a5db85aac037bb0.png",
-    "static/media/LaBelleAurore.woff2": "/.github.io/W20-REACT-PORTFOLIO/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/.github.io/W20-REACT-PORTFOLIO/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/.github.io/W20-REACT-PORTFOLIO/index.html",
-    "main.d2ccefa9.css.map": "/.github.io/W20-REACT-PORTFOLIO/static/css/main.d2ccefa9.css.map",
-    "main.a75fb763.js.map": "/.github.io/W20-REACT-PORTFOLIO/static/js/main.a75fb763.js.map"
+    "main.css": "/W20-REACT-PORTFOLIO/static/css/main.dab311ef.css",
+    "main.js": "/W20-REACT-PORTFOLIO/static/js/main.1e77db38.js",
+    "static/js/377.fe43f3f2.chunk.js": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js",
+    "static/media/pf1.png": "/W20-REACT-PORTFOLIO/static/media/pf1.5ab2d0cb38aad42c4bce.png",
+    "static/media/pf2.png": "/W20-REACT-PORTFOLIO/static/media/pf2.503fb166c5c81115df93.png",
+    "static/media/pf5.png": "/W20-REACT-PORTFOLIO/static/media/pf5.c0f47f00a437bb7453bf.png",
+    "static/media/pf6.png": "/W20-REACT-PORTFOLIO/static/media/pf6.98c17a3e3efc8500d761.png",
+    "static/media/pf4.png": "/W20-REACT-PORTFOLIO/static/media/pf4.0d84a1d2f4e87475b19a.png",
+    "static/media/forest.png": "/W20-REACT-PORTFOLIO/static/media/forest.1dc177424b11f3bb04ba.png",
+    "static/media/helvetica-neu.ttf": "/W20-REACT-PORTFOLIO/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/pf3.png": "/W20-REACT-PORTFOLIO/static/media/pf3.d7c32a5db85aac037bb0.png",
+    "static/media/LaBelleAurore.woff2": "/W20-REACT-PORTFOLIO/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/W20-REACT-PORTFOLIO/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/W20-REACT-PORTFOLIO/index.html",
+    "main.dab311ef.css.map": "/W20-REACT-PORTFOLIO/static/css/main.dab311ef.css.map",
+    "main.1e77db38.js.map": "/W20-REACT-PORTFOLIO/static/js/main.1e77db38.js.map",
+    "377.fe43f3f2.chunk.js.map": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ccefa9.css",
-    "static/js/main.a75fb763.js"
+    "static/css/main.dab311ef.css",
+    "static/js/main.1e77db38.js"
   ]
 }
