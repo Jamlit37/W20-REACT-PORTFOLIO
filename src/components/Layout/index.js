@@ -17,9 +17,6 @@ const Layout = () => {
           <br />
           <span className="bottom-tag-html">&lt;/html&gt;</span>
         </span>
-        <footer>
-          Thanks for visiting my portfolio
-        </footer>
       </div>
     </div>
   )
