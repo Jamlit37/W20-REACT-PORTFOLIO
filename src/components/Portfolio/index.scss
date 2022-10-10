@@ -19,7 +19,7 @@
     &:before {
       content: '<h1>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       position: absolute;
       margin-top: -40px;
@@ -30,7 +30,7 @@
     &:after {
       content: '<h1/>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       position: absolute;
       margin-top: 18px;
@@ -52,7 +52,7 @@
     &:before {
       content: '<h2>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -62,7 +62,7 @@
     &:after {
       content: '</h2>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -76,7 +76,8 @@
     position: relative;
     margin-top: 15px;
     margin-left: 150px;
-    border: #333 10px solid;
+    border: #235155 10px solid;
+    border-radius: 25px;
   }
 
   .container1, 

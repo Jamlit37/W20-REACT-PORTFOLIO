@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/W20-REACT-PORTFOLIO/static/css/main.dab311ef.css",
-    "main.js": "/W20-REACT-PORTFOLIO/static/js/main.1e77db38.js",
+    "main.css": "/W20-REACT-PORTFOLIO/static/css/main.abbe98af.css",
+    "main.js": "/W20-REACT-PORTFOLIO/static/js/main.893a7b0e.js",
     "static/js/377.fe43f3f2.chunk.js": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js",
     "static/media/pf1.png": "/W20-REACT-PORTFOLIO/static/media/pf1.5ab2d0cb38aad42c4bce.png",
     "static/media/pf2.png": "/W20-REACT-PORTFOLIO/static/media/pf2.503fb166c5c81115df93.png",
@@ -14,12 +14,12 @@
     "static/media/LaBelleAurore.woff2": "/W20-REACT-PORTFOLIO/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/W20-REACT-PORTFOLIO/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/W20-REACT-PORTFOLIO/index.html",
-    "main.dab311ef.css.map": "/W20-REACT-PORTFOLIO/static/css/main.dab311ef.css.map",
-    "main.1e77db38.js.map": "/W20-REACT-PORTFOLIO/static/js/main.1e77db38.js.map",
+    "main.abbe98af.css.map": "/W20-REACT-PORTFOLIO/static/css/main.abbe98af.css.map",
+    "main.893a7b0e.js.map": "/W20-REACT-PORTFOLIO/static/js/main.893a7b0e.js.map",
     "377.fe43f3f2.chunk.js.map": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab311ef.css",
-    "static/js/main.1e77db38.js"
+    "static/css/main.abbe98af.css",
+    "static/js/main.893a7b0e.js"
   ]
 }

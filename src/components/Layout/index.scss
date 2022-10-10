@@ -4,13 +4,6 @@
   position: absolute;
 }
 
-footer {
-  color: #fff;
-  font-size: large;
-  position: absolute;
-  bottom: auto;
-}
-
 .top-tags {
   bottom: auto;
   top: 35px;
@@ -18,7 +11,7 @@ footer {
 }
 
 .tags {
-  color: #ffd700;
+  color: #00eaff;
   opacity: 0.6;
   position: absolute;
   bottom: 0;
@@ -58,7 +51,7 @@ footer {
     h1 {
       font-size: 53px;
       font-family: 'Coolvetica';
-      color: #ffd700;
+      color: #00eaff;
       font-weight: 400;
       margin-top: 0;
       position: relative;
@@ -68,7 +61,7 @@ footer {
       &:before {
         content: '<h1>';
         font-family: 'La Belle Aurore', cursive;
-        color: #ffd700;
+        color: #00eaff;
         font-size: 18px;
         position: absolute;
         margin-top: -10px;
@@ -80,7 +73,7 @@ footer {
       &:after {
         content: '<h1/>';
         font-family: 'La Belle Aurore', cursive;
-        color: #ffd700;
+        color: #00eaff;
         font-size: 18px;
         line-height: 18px;
         position: absolute;

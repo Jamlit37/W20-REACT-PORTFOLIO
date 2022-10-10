@@ -5,7 +5,7 @@
   &:before {
     content: '<form>';
     font-family: 'La Belle Aurore', cursive;
-    color: #ffd700;
+    color: #00eaff;
     font-size: 18px;
     opacity: 0.6;
     display: block;
@@ -15,7 +15,7 @@
   &:after {
     content: '</form>';
     font-family: 'La Belle Aurore', cursive;
-    color: #ffd700;
+    color: #00eaff;
     font-size: 18px;
     opacity: 0.6;
     display: block;
@@ -76,12 +76,12 @@
   }
 
   .flat-button {
-    color: #ffd700;
+    color: #00eaff;
     font-size: 11px;
     letter-spacing: 3px;
     text-decoration: none;
     padding: 8px 10px;
-    border: 1px solid #ffd700;
+    border: 1px solid #00eaff;
     float: left;
     border-radius: 4px;
     background: 0 0;
@@ -103,7 +103,7 @@
   &:before {
     content: '<p>';
     font-family: 'La Belle Aurore', cursive;
-    color: #ffd700;
+    color: #00eaff;
     font-size: 18px;
     opacity: 0.6;
     display: block;
@@ -113,7 +113,7 @@
   &:after {
     content: '</p>';
     font-family: 'La Belle Aurore', cursive;
-    color: #ffd700;
+    color: #00eaff;
     font-size: 18px;
     opacity: 0.6;
     display: block;

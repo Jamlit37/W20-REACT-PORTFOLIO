@@ -19,7 +19,7 @@
     &:before {
       content: '<h1>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -29,7 +29,7 @@
     &:after {
       content: '</h1>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -58,7 +58,7 @@
     &:before {
       content: '<h2>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -67,7 +67,7 @@
     &:after {
       content: '</h2>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -76,27 +76,27 @@
   }
 
   .flat-button {
-    color: #ffd700;
+    color: white;
     font-size: 13px;
     font-weight: 400;
     letter-spacing: 4px;
     font-family: sans-serif;
     text-decoration: none;
     padding: 10px 18px;
-    border: 1px solid #ffd700;
+    border: 1px solid #00eaff;
     margin-top: 25px;
     float: left;
     animation: fadeInAnimation 1s 1.8s backwards;
     white-space: nowrap;
 
     &:hover {
-      background: #ffd700;
+      background: #00eaff;
       color: #333;
     }
     &:before {
       content: '<button>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
@@ -106,7 +106,7 @@
     &:after {
       content: '</button>';
       font-family: 'La Belle Aurore', cursive;
-      color: #ffd700;
+      color: #00eaff;
       font-size: 18px;
       opacity: 0.6;
       display: block;
