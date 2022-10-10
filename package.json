@@ -1,7 +1,8 @@
 {
   "name": "w20-react-portfolio",
   "version": "1.0.0",
-  "description": "React Portfolio by James Little",
+  "description": "React Portfolio by James Little", 
+  "private": true,
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
