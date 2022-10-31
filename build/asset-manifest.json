@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/W20-REACT-PORTFOLIO/static/css/main.abbe98af.css",
-    "main.js": "/W20-REACT-PORTFOLIO/static/js/main.893a7b0e.js",
+    "main.js": "/W20-REACT-PORTFOLIO/static/js/main.06c4d06f.js",
     "static/js/377.fe43f3f2.chunk.js": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js",
-    "static/media/pf1.png": "/W20-REACT-PORTFOLIO/static/media/pf1.5ab2d0cb38aad42c4bce.png",
+    "static/media/pf1.png": "/W20-REACT-PORTFOLIO/static/media/pf1.23704e977a03f59c5328.png",
     "static/media/pf2.png": "/W20-REACT-PORTFOLIO/static/media/pf2.503fb166c5c81115df93.png",
     "static/media/pf5.png": "/W20-REACT-PORTFOLIO/static/media/pf5.c0f47f00a437bb7453bf.png",
     "static/media/pf6.png": "/W20-REACT-PORTFOLIO/static/media/pf6.98c17a3e3efc8500d761.png",
@@ -15,11 +15,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/W20-REACT-PORTFOLIO/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/W20-REACT-PORTFOLIO/index.html",
     "main.abbe98af.css.map": "/W20-REACT-PORTFOLIO/static/css/main.abbe98af.css.map",
-    "main.893a7b0e.js.map": "/W20-REACT-PORTFOLIO/static/js/main.893a7b0e.js.map",
+    "main.06c4d06f.js.map": "/W20-REACT-PORTFOLIO/static/js/main.06c4d06f.js.map",
     "377.fe43f3f2.chunk.js.map": "/W20-REACT-PORTFOLIO/static/js/377.fe43f3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abbe98af.css",
-    "static/js/main.893a7b0e.js"
+    "static/js/main.06c4d06f.js"
   ]
 }
