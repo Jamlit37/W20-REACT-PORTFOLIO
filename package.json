@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Jamlit37.github.io/W20-REACT-PORTFOLIO/",
   "name": "w20-react-portfolio",
   "version": "1.0.0",
   "description": "React Portfolio by James Little", 
@@ -19,8 +20,11 @@
   "bugs": {
     "url": "https://github.com/Jamlit37/W20-REACT-PORTFOLIO/issues"
   },
-  "homepage": "https://Jamlit37.github.io/W20-REACT-PORTFOLIO",
-  "private": true,
+ 
+  "private": false,
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
@@ -30,7 +34,6 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "animate.css": "^4.1.1",
-    "gh-pages": "^4.0.0",
     "loaders.css": "^0.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
