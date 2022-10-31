@@ -12,14 +12,14 @@ const Portfolio = () => {
     <>
       <div className="container portfolio-page">
         <div className="container1">
-        <h2>Beer Bar And Pizza</h2>
-        <a href="https://github.com/CSkicko/What-Should-I-Watch" target="_blank" rel="noreferrer"><img className ='pfp' src={PF1} alt="Portfolio and link 1"/></a>
+        <h2>Animalia Zoo</h2>
+        <a href="https://animalia-zoo.herokuapp.com/" target="_blank" rel="noreferrer"><img className ='pfp' src={PF1} alt="Portfolio and link 1"/></a>
         <h2>MVC style Blog</h2>
-        <a href="https://github.com/Jamlit37/W14-MVC-BLOG" target="_blank" rel="noreferrer"><img className ='pfp' src={PF2} alt="Portfolio and link 2"/></a>
+        <a href="https://w14-mvc-blog.herokuapp.com/" target="_blank" rel="noreferrer"><img className ='pfp' src={PF2} alt="Portfolio and link 2"/></a>
         </div>
         <div className="container2">
         <h2>Express app Note taker</h2>
-        <a href="https://github.com/Jamlit37/W11-EXPRSS-NOTES" target="_blank" rel="noreferrer"><img className ='pfp' src={PF3} alt="Portfolio and link 3"/></a>
+        <a href="https://hidden-dusk-08673.herokuapp.com/" target="_blank" rel="noreferrer"><img className ='pfp' src={PF3} alt="Portfolio and link 3"/></a>
         <h2>OOP Profile Creator</h2>
         <a href="https://github.com/Jamlit37/W10-OOP-PROFILER" target="_blank" rel="noreferrer"><img className ='pfp' src={PF4} alt="Portfolio and link 4"/></a>
         </div>
