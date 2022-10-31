@@ -7,7 +7,7 @@ const Home = () => {
       <div className="container home-page">
         <div className="text-zone">
           <h1>
-            Welcome! I'm James Little
+            Welcome! I'm James V Little
           </h1>
           <h2>Full Stack Developer / MERN Stack focussed / Avide Learner</h2>
           <Link to="/contact" className="flat-button">
