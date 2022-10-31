@@ -11,15 +11,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jamlit37/W20-REACT-PORTFOLIO.git"
-  },
   "author": "James Little",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jamlit37/W20-REACT-PORTFOLIO/issues"
-  },
   "homepage": "/",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
